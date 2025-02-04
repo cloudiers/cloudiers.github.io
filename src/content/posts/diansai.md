@@ -50,7 +50,7 @@ comments: true
 
 ## 本地照片
 
-![jianlizhaop](/img/325eab3ef46ab46244407c20c85c342.jpg)
+![jianlizhaop](cloudiers.github.io/src/content/posts/_attachment/325eab3ef46ab46244407c20c85c342.jpg)
 
 # 写在最后
 
