@@ -4,7 +4,8 @@ date: 2025-02-04
 summary: 编程语言类
 category: C语言
 tags: [C Program]
-sticky: 1
+comments: true
+sticky: 0
 ---
 
 ## [1. 目的](https://doc.itprojects.cn/0004.zhishi.c/0002.doc/index.html#/1.02.mingw?id=_1-%e7%9b%ae%e7%9a%84)
