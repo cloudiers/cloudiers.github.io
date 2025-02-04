@@ -40,8 +40,6 @@ comments: true
 
   用不到的还可以七天无理由退货。但是后续发现没有就肯定寄了。
 
-  ![../cloudiers.github.io\src\content\posts\325eab3ef46ab46244407c20c85c342.jpg](../cloudiers.github.io\src\content\posts\325eab3ef46ab46244407c20c85c342.jpg)
-
   你好，为什么不显示，我的这句话，是因为照片的问题吗，我不是很理解
 
 # 写在最后
