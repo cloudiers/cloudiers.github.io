@@ -1,3 +1,12 @@
+---
+title: 【逐晖计划#1】万物的开端
+date: 2024-08-03
+summary: 铸造一场激昂的计划，锻出一段尝胆的生涯
+category: 神
+tags: [逐晖计划]
+sticky: 1
+---
+
 ## [1. 目的](https://doc.itprojects.cn/0004.zhishi.c/0002.doc/index.html#/1.02.mingw?id=_1-%e7%9b%ae%e7%9a%84)
 
 在学习`C语言`的期间，肯定需要创建很多个`.c`文件，每个`.c`文件都保存着自己编写的代码，例如`01.hello.c`里面是你好世界的源代码，`02.printf.c`里是一个输出数据的源码文件
