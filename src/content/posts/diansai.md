@@ -42,6 +42,8 @@ comments: true
 
   ![../cloudiers.github.io\src\content\posts\325eab3ef46ab46244407c20c85c342.jpg](../cloudiers.github.io\src\content\posts\325eab3ef46ab46244407c20c85c342.jpg)
 
+  你好
+
 # 写在最后
 
 在第一天我就看到不少人发出的成果展示，而我们到第四天也没能完成两个任务，深感挫败，虽然有许多原因，但并非不能预防和克服。比赛让我看到自己能力的差距，我想是时候激流勇进了……这次的挫败就当做[【逐晖计划】](../posts/zhuhui1.md)的开端吧。
