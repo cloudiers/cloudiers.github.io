@@ -50,7 +50,7 @@ comments: true
 
 ## 本地照片
 
-<img src="D:\cloudier\_1_笔记库\web_blog\cloudiers.github.io\src\content\posts\325eab3ef46ab46244407c20c85c342.jpg" alt="jianlizhaop">
+![jianlizhaop](src/content/posts/325eab3ef46ab46244407c20c85c342.jpg)
 
 # 写在最后
 
