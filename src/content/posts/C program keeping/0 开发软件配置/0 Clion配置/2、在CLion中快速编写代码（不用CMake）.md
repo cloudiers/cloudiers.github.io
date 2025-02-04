@@ -1,5 +1,5 @@
 ---
-title: 【C program#0】Clion的使用方法
+title: 【C program#0.2】Clion的使用方法
 date: 2025-02-04
 summary: 编程语言类
 category: C语言
