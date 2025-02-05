@@ -30,14 +30,14 @@ const description = await input({
 const link = await input({
   message: '请输入地址',
 })
-const avatax = await input({
+const avatar = await input({
   message: '请输入头像地址',
 })
 
 const content = `title: ${title}
 description: ${description}
 link: ${link}
-avatax: ${avatax}
+avatar: ${avatar}
 `
 
 const fullPath = getFriendFullPath(fileName)

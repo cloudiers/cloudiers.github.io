@@ -73,7 +73,7 @@ pnpm preview
   "author": {
     "name": "", // 作者名称
     "twitterId": "", // 推特账号 ID，以 @ 开头，用于 Open Graph
-    "avatax": "" // 作者头像地址
+    "avatar": "" // 作者头像地址
   },
   // 首页 Hero 组件
   "hero": {

@@ -14,5 +14,5 @@ comments: true
 title: 网站名称
 description: 一句话介绍下你的网站或者你自己
 link: 网站地址
-avatax: 头像地址
+avatar: 头像地址
 ```

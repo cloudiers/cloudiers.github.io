@@ -40,7 +40,7 @@ const friendsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    avatax: z.string(),
+    avatar: z.string(),
     link: z.string().url(),
   }),
 })

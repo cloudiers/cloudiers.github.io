@@ -26,8 +26,8 @@ function Logo() {
     <a className="block" href="/" title="Nav to home">
       <img
         className="size-[40px] select-none object-cover rounded-2xl"
-        src={author.avatax}
-        alt="Site owner avatax"
+        src={author.avatar}
+        alt="Site owner avatar"
       />
     </a>
   )
