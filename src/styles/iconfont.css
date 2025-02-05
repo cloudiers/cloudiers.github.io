@@ -257,3 +257,8 @@
 .icon-sun:before {
   content: '\e89e';
 }
+
+.icon-csdn:before {
+  content: '\e900';
+  color: #d81e06;
+}
