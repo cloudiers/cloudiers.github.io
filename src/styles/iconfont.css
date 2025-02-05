@@ -7,19 +7,6 @@
     url('/fonts/iconfont.ttf?t=1716210197380') format('truetype');
 }
 
-@font-face {
-  font-family: 'icomoon';
-  src: url('fonts/icomoon.eot?tvaa9d');
-  src:
-    url('fonts/icomoon.eot?tvaa9d#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?tvaa9d') format('truetype'),
-    url('fonts/icomoon.woff?tvaa9d') format('woff'),
-    url('fonts/icomoon.svg?tvaa9d#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-}
-
 .iconfont {
   font-family: 'iconfont';
   font-style: normal;
@@ -269,8 +256,4 @@
 
 .icon-sun:before {
   content: '\e89e';
-}
-
-.icon-csdn:before {
-  content: '\e900';
 }
