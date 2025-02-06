@@ -38,14 +38,14 @@ comments: false
 
 > 嵌入式开发工具
 
-    🌞 Arduino IDE => Arduino Uno/Nano & ESP32/ESP8266
-    🌞 C51 & Stm32103f
+    🌝 Arduino IDE => Arduino Uno/Nano & ESP32/ESP8266
+    🌝 C51 & Stm32103f
             => Keil5 => 编写程序
             => ISP => 烧录.hex程序
-    🌞 VS code
+    🌝 VS code
             => PlatformIO => ESP32/ESP8266
             => ESP-IDF => ESP32/ESP8266
-    🌞 ADS => TC264D
+    🌝 ADS => TC264D
 
 ## 关于 Gyoza
 
