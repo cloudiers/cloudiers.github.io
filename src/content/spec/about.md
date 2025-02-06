@@ -14,20 +14,38 @@ comments: false
 
 ## 关于网站的知识体系
 
+> 知识体系
+
     ✨ 电气工程知识体系（电路原理、电子技术、电路【数字电路、模拟电路】、控制原理【串级与并级PID】、微机原理……）
     ✨ 计算机科学知识体系（组成、网络、系统、数据库、操作系统、……）
     ✨ 机械工程知识体系（机械设计、机械原理、工程力学【理论力学、结构力学、流体力学】、互换性原理、金属工艺学……）
     ✨ 软件工程知识体系（前端、后端……）
     ✨ 人工智能知识体系（机器学习【深度学习、神经网络】……）
 
-    ⛄ 编程语言（C、C++、Python、Java、JavaScript & Vue……）<br />
+> 实践与运用
+
+    ⛄ 编程语言（C、C++、Python、Java、JavaScript & Vue……）
     ⛄ 仿真模拟（数学建模【matlab】、有限元分析【Anasys、Solidworks—Simulation】、运动学仿真【Adams、Solidworks—Simulation】……）
     ⛄ 单片机&嵌入式系统（AVR架构【Arduino Uno/Nano】、8051内核【C51系列】、ESP架构【ESP32、ESP8266】、ARM Cortex-M3内核【Stm32103f系列】……）
 
-- C/C++ => Clion/Visual studio 2022
-- Python => Pycharm
-- Java => IntelliJ IDEA
-- JavaScript & Vue => VS Code
+> 编程开发工具
+
+    🌞 Clion/Visual studio 2022 => C/C++
+    🌞 Pycharm => Python
+    🌞 IntelliJ IDEA => Java
+    🌞 JavaScript & Vue => VS Code
+    🌞 VS Code => C/C++ & Python & JavaScript & Vue
+
+> 嵌入式开发工具
+
+    🌞 Arduino IDE => Arduino Uno/Nano & ESP32/ESP8266
+    🌞 C51 & Stm32103f
+            => Keil5 => 编写程序
+            => ISP => 烧录.hex程序
+    🌞 VS code
+            => PlatformIO => ESP32/ESP8266
+            => ESP-IDF => ESP32/ESP8266
+    🌞 ADS => TC264D
 
 ## 关于 Gyoza
 
