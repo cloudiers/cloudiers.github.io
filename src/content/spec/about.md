@@ -1,33 +1,36 @@
 ---
 title: 自述
-description: 这是一份站长的自述报告，请查收。
+description: 我是 cloudier，是一名大三学生，本网站只作为个人知识分享博客使用，不提供任何技术支持。
 comments: false
 ---
 
 ## 关于网站
 
-- 我是 cloudier，是一名大三学生，本网站只作为个人知识分享博客使用，不提供任何技术支持。
-- 对于本网站知识体系，是基于我个人的学习和实践经验总结而成，可能存在错误和不准确之处，欢迎指正；
+- 本网站是我个人的知识分享博客，旨在分享我个人的学习和实践经验。
+- 本网站知识体系基于我个人的学习和实践经验总结而成，可能存在错误和不准确之处，欢迎指正；
 - 本网站的所有内容均由我个人创作，不涉及任何商业利益；
 - 本网站的所有内容均为个人原创，未经允许，不得转载。
+- 遵纪守法，切勿采用非法手段攻击或侵犯他人的知识产权。
 
 ## 关于网站的知识体系
 
     ✨ 电气工程知识体系（电路原理、电子技术、电路【数字电路、模拟电路】、控制原理【串级与并级PID】、微机原理……）
     ✨ 计算机科学知识体系（组成、网络、系统、数据库、操作系统、……）
-    ✨ 机械工程知识体系（机械设计、机械原理、工程力学【理论力学、结构力学、流体力学】、互换性原理……）
+    ✨ 机械工程知识体系（机械设计、机械原理、工程力学【理论力学、结构力学、流体力学】、互换性原理、金属工艺学……）
     ✨ 软件工程知识体系（前端、后端……）<br />
     ✨ 人工智能知识体系（机器学习【深度学习、神经网络】……）<br />
 
     ⛄ 编程语言（C、C++、Python、Java、JavaScript & Vue……）<br />
-
-> C/C++ => Clion/Visual studio 2022
-> Python => Pycharm
-> Java => IntelliJ IDEA
-> JavaScript & Vue => VS Code
-
     ⛄ 仿真模拟（数学建模【matlab】、有限元分析【Anasys、Solidworks—Simulation】、运动学仿真【Adams、Solidworks—Simulation】……）<br />
     ⛄ 单片机&嵌入式系统（AVR架构【Arduino Uno/Nano】、8051内核【C51系列】、ESP架构【ESP32、ESP8266】、ARM Cortex-M3内核【Stm32103f系列】……）<br />
+
+> C/C++ => Clion/Visual studio 2022
+
+> Python => Pycharm
+
+> Java => IntelliJ IDEA
+
+> JavaScript & Vue => VS Code
 
 ## 关于 Gyoza
 
