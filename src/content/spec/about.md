@@ -19,7 +19,8 @@ comments: false
     ✨ 软件工程知识体系（前端、后端……）<br />
     ✨ 人工智能知识体系（机器学习【深度学习、神经网络】……）<br />
 
-> ⛄ 编程语言（C、C++、Python、Java、JavaScript & Vue……）<br />
+    ⛄ 编程语言（C、C++、Python、Java、JavaScript & Vue……）<br />
+
 > C/C++ => Clion/Visual studio 2022
 > Python => Pycharm
 > Java => IntelliJ IDEA
